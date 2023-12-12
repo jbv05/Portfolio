@@ -1,0 +1,30 @@
+#Titulo1{
+    text-align: center;
+    color: red;
+    background-color: beige;
+}
+
+*{
+    background-color: beige;
+}
+
+#Titulo2{
+    text-align: initial;
+    color: black;
+}
+
+#Titulo3{
+    text-align: initial;
+    color: black;
+}
+
+#Imagen1{
+    width: 400px;
+    height: 200px;
+}
+
+#Imagen{
+    display: flex;
+    justify-content: center;
+}
+

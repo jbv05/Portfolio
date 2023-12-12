@@ -1,41 +1,41 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.InicioLibro{
+.InicioLibro {
     background-color: rgb(30, 117, 210);
     border: 5px, solid, black;
     height: 100vh;
     overflow: hidden;
 }
 
-.itemcar{
+.itemcar {
     background-color: rgb(169, 121, 223);
     position: relative;
     height: 100%;
 }
 
-section.itemcar.uno{
-    background-color: rgb(36, 204, 21);
+section.itemcar.uno {
+    background-color: burlywood
 }
 
-section.itemcar.dos{
-    background-color: rgb(201, 33, 33);
+section.itemcar.dos {
+    background-color: burlywood
 }
 
-section.itemcar.tres{
-    background-color: rgb(128, 88, 203);
+section.itemcar.tres {
+    background-color: burlywood
 }
 
 
-.contenidocar{
+.contenidocar {
     height: 100%;
     text-align: center;
 }
 
-.flechascar{
+.flechascar {
     position: absolute;
     top: 0;
     height: 100%;
@@ -48,12 +48,12 @@ section.itemcar.tres{
     padding: 10px;
 }
 
-#libro2{
-    width: 700px;
-    height: 400px;
+#libro2 {
+    width: 600px;
+    height: 300px;
 }
 
-#libro3{
-    width: 700px;
-    height: 400px;
+#libro3 {
+    width: 600px;
+    height: 300px;
 }

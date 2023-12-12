@@ -1,0 +1,19 @@
+#Titulo5{
+    text-align: center;
+    color: red;
+    background-color: beige;
+}
+
+*{
+    background-color: beige;
+}
+
+#imagen3{
+    display: flex;
+    justify-content: center;
+}
+
+#imagen4{
+    width: 400px;
+    height: 200px;
+}
