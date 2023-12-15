@@ -45,4 +45,11 @@ body {
 
   #Redessociales{
     text-align: center;
+    text-decoration: none;
+  }
+  .enlases{
+    text-decoration: none;
+  }
+  ul{
+    list-style: none;
   }
