@@ -40,4 +40,22 @@ body {
   .Boton{
     display: flex;
     justify-content: end;
+    margin: 25px;
+    width: 100px;
+  }
+
+  .secBtn{
+    width: 100%;
+    height: auto;
+    display: flex;
+  }
+
+  .Boton button{
+    background-color: black;
+  }
+
+
+  .Boton a{
+    text-decoration: none;
+    color: yellow;
   }
